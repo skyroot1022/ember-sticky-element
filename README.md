@@ -33,7 +33,6 @@ viewport detection techniques.
 ```bash
 ember install ember-sticky-element
 ```
-
 ### Basic usage
 
 Just wrap your content into the `sticky-element`:
